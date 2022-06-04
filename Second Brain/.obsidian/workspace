@@ -7,8 +7,13 @@
         "id": "aeb39c5bca13ffe5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RWT- READ, WRITE AND THINK/How Linux Works - Brian Ward/Como o Linux funciona.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RWT- READ, WRITE AND THINK/How Linux Works - Brian Ward/Como o Linux funciona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RWT- READ, WRITE AND THINK/How Linux Works - Brian Ward/Como o Linux funciona.md"
+              }
             }
           },
           {
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RWT- READ, WRITE AND THINK/How Linux Works - Brian Ward/Como o Linux funciona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +156,15 @@
   },
   "active": "aeb39c5bca13ffe5",
   "lastOpenFiles": [
+    "RWT- READ, WRITE AND THINK/How Linux Works - Brian Ward/Como o Linux funciona.md",
+    "RWT- READ, WRITE AND THINK/Ferramentas de Qualidade.md",
+    "RWT- READ, WRITE AND THINK/Daidoji Yuzan - Bushido (Budo Shoshinshu).md",
+    "OPERATING SYSTEMS/Linux Fudamentals and Essentials/root.md",
+    "OPERATING SYSTEMS/Linux Fudamentals and Essentials/3. Sistemas de arquivos/diretório base.md",
     "NETWORKING COMPUTER/ADMINISTRADOR DE REDES/Pasted image 20220211103809.png",
     "NETWORKING COMPUTER/ADMINISTRADOR DE REDES/PuTTy.md",
-    "RWT- READ, WRITE AND THINK/Daidoji Yuzan - Bushido (Budo Shoshinshu).md",
     "DIREITO ADMINISTRATIVO/Introdução ao Direito Administrativo.md",
     "704 - Linux Network Engineer/Introdução ao Linux Network Engineer.md",
-    "Excalidraw/teste.md",
-    "Excalidraw/Sem título.md",
-    "root.md",
-    "Excalidraw/Drawing 2022-06-03 00.45.01.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-03 00.45.21.excalidraw.md"
+    "Excalidraw/teste.md"
   ]
 }

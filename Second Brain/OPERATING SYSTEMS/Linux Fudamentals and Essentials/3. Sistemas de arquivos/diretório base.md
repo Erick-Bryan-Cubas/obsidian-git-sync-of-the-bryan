@@ -12,7 +12,7 @@ Os diretórios de base hierarquicamente estão abaixo do [[diretório raiz]]. Se
 - [[lib]]
 - [[lost+found]]
 - [[proc]]
-- [[root]]
+- [[OPERATING SYSTEMS/Linux Fudamentals and Essentials/root]]
 - [[run]]
 - [[sys]]
 - [[opt]]
