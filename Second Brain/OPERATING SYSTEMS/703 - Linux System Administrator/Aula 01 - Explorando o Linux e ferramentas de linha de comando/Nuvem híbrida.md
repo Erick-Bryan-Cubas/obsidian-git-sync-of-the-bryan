@@ -1,0 +1,1 @@
+ Na nuvem híbrida a instituição possui gerência de ofertar os serviços cloud de forma restritiva e migrar para o livre acesso em períodos de ascendência de demanda. 

@@ -1,0 +1,1 @@
+Verifica se os pacotes instalados têm suas dependências necessárias satisfeitas. 

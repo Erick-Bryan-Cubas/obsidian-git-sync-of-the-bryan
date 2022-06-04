@@ -1,0 +1,1 @@
+com -l, emite o autor de cada arquivo

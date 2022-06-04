@@ -1,0 +1,2 @@
+- -n2: parâmetro do comando _tail_ que listará as duas últimas linhas do arquivo texto; 
+- tail -f < arquivo log do sistema > : arquivo log é aquele que armazena informações do sistema, para consultar quaisquer problemas deve-se consultá-los; 

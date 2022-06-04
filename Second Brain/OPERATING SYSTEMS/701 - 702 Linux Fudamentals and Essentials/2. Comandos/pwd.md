@@ -1,0 +1,1 @@
+_pwd_: comando para identificar o local atual 

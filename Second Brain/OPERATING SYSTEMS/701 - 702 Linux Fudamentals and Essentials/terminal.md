@@ -1,0 +1,1 @@
+Software que fornce acesso ao Kernel do Linux. Com [[comandos internos]] e [[comandos externos]]

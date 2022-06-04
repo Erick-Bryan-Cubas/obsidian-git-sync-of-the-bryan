@@ -1,0 +1,13 @@
+Principais comandos:
+1. [[help]]
+2. [[install]]
+3. [[info]]
+4. [[list-updates]]
+5. [[lr]]
+6. [[packages]]
+7. [[what-provides]]
+8. [[refresh]]
+9. [[remove]]
+10. [[search]]
+11. [[update]]
+12. [[verify]]

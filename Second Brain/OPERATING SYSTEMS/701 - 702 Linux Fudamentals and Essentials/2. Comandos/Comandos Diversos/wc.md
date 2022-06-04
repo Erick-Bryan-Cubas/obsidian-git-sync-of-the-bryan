@@ -1,0 +1,3 @@
+- wc -l: lista a quantidade de linhas;
+- wc -c: lista a quantidade de caracteres;
+- wc -w: lista a quantidade de palavras; we

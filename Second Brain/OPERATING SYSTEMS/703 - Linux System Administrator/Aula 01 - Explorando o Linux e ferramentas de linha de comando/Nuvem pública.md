@@ -1,0 +1,1 @@
+Na _nuvem pública_ os serviços ofertados por meio de provedores na internet acessíveis a quiasquer máquinas. 

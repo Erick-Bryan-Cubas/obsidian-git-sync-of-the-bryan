@@ -1,0 +1,1 @@
+O _metapacote_ possibilita a existência de demais pacotes em si. Quando se instala um _metapacote_, o mesmo instala todos os demais pacotes necessário. 

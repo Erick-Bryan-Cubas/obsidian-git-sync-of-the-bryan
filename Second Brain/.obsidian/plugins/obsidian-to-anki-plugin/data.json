@@ -1,0 +1,152 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Básico": "",
+      "Básico (cartão invertido opcional)": "",
+      "Básico (digite a resposta)": "",
+      "Básico (e cartão invertido)": "",
+      "Dualidade": "",
+      "Image Occlusion Enhanced": "",
+      "Multipla Escolha 4x": "",
+      "Multipla Escolha 5x": "",
+      "Omissão de Palavras": "",
+      "Omissão de Palavras Estilístico ": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Básico": "Frente",
+      "Básico (cartão invertido opcional)": "Frente",
+      "Básico (digite a resposta)": "Frente",
+      "Básico (e cartão invertido)": "Frente",
+      "Dualidade": "Pergunta",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "Multipla Escolha 4x": "Question",
+      "Multipla Escolha 5x": "Question",
+      "Omissão de Palavras": "Texto",
+      "Omissão de Palavras Estilístico ": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "701 - Linux Fundamentals": "",
+      "Editores de Texto": "",
+      "Planejamento": "",
+      "Livros": ""
+    },
+    "FOLDER_TAGS": {
+      "701 - Linux Fundamentals": "",
+      "Editores de Texto": "",
+      "Planejamento": "",
+      "Livros": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "ObsidianMD Deck",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "Livros/12 Regras para a Vida.md": "16ef45859f30cb56685acfd6b02723c5",
+    "Livros/A história do Brasil para quem tem pressa.md": "00cf13e55fd362612e1c7612d780a02a",
+    "Livros/Box Todos os contos de Machado de Assis.md": "616c24a4e4991b807803a08f7cba1e5e",
+    "Livros/Cartas de um diabo a seu aprendiz.md": "2ad5edf26e40ee59ac903bd7938bf85c",
+    "Livros/Uma Vida com Propósitos.md": "22a9fd699038cfbbb2003c1e89a2d60b",
+    "Livros/O Último Desejo.md": "151a25cba0d099c458d855c2a66e5e55",
+    "Livros/Nova Ordem Sexual.md": "db0275ad5160447cb7b2a4209c3ed974",
+    "Livros/Os quatro amores.md": "fba1d189763f2433c27f21e4c5191e8e",
+    "Livros/Edificar-se para a morte.md": "1d80c312813fe4c69648532aadf6f1fb",
+    "Livros/Como o Linux funciona.md": "c317acd212f0cc97c22644d81916200f",
+    "Planejamento/702 - Linux Essentials.md": "c2301471c5215ec93dd2b2a377e05c55",
+    "Editores de Texto/VIM.md": "7dcfacd2de50203d98699bde2b79581a",
+    "Editores de Texto/Nano.md": "8d63030a5a072cb7feff0319c7c19321",
+    "Editores de Texto/modo de comando.md": "e97ae044363d41a3ab04f13beb920383",
+    "Editores de Texto/modo de  edição.md": "5f018691798e3fd7709f2851b088deb8",
+    "Editores de Texto/Aula 01 - Editores de Texto.md": "a8f45b9c37c8fd35fc564296fb55e130",
+    "701 - Linux Fundamentals/ro quiet splash.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "701 - Linux Fundamentals/GRUB.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "701 - Linux Fundamentals/Alterar senha de usuário Root - Kali Linux.md": "6f9acbd5a627e2353f11584b654c59b8"
+  },
+  "fields_dict": {
+    "Básico": [
+      "Frente",
+      "Verso"
+    ],
+    "Básico (cartão invertido opcional)": [
+      "Frente",
+      "Verso",
+      "Adicionar Invertido"
+    ],
+    "Básico (digite a resposta)": [
+      "Frente",
+      "Verso"
+    ],
+    "Básico (e cartão invertido)": [
+      "Frente",
+      "Verso"
+    ],
+    "Dualidade": [
+      "Pergunta",
+      "Resposta",
+      "Explicacao",
+      "Disciplina"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "Multipla Escolha 4x": [
+      "Question",
+      "Answer1",
+      "Distractor2",
+      "Distractor3",
+      "Distractor4",
+      "Explanation (optional)",
+      "Hint",
+      "Disciplina"
+    ],
+    "Multipla Escolha 5x": [
+      "Question",
+      "Answer1",
+      "Distractor2",
+      "Distractor3",
+      "Distractor4",
+      "Distractor5",
+      "Explanation (optional)",
+      "Hint",
+      "Disciplina"
+    ],
+    "Omissão de Palavras": [
+      "Texto",
+      "Verso Extra"
+    ],
+    "Omissão de Palavras Estilístico ": [
+      "Text",
+      "Anotações",
+      "Hide others on the back side"
+    ]
+  }
+}

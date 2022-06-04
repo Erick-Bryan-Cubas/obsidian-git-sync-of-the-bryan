@@ -1,0 +1,1 @@
+Corresponde ao [[Fix-Broken]], tenta realizar a correção de quebra de pacotes. 

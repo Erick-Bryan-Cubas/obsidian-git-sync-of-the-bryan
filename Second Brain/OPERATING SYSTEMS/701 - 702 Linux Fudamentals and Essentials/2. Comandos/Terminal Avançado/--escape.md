@@ -1,0 +1,1 @@
+emite escapes no estilo C para caracteres não-gráficos

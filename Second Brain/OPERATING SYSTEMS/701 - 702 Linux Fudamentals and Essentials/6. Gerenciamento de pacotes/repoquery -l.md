@@ -1,0 +1,1 @@
+Comando no _dnf_ que lista o conteúdo de um dispositivo. 

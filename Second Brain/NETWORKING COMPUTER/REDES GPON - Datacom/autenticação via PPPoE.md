@@ -1,0 +1,2 @@
+Autorização das ONUs com um concentrador que realiza a autenticação dos clientes e se necessário o controle de banda.
+Sem a confirmação do PPPoE não é emitido um IP, sem o IP não a conectividade ou o [[acesso remoto]]

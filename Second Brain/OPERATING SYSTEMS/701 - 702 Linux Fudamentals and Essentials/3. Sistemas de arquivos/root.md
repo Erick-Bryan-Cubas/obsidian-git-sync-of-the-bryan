@@ -1,0 +1,1 @@
+Pasta do [[usuário root]].

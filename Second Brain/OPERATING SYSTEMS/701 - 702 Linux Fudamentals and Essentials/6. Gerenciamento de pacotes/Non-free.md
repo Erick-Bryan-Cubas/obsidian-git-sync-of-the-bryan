@@ -1,0 +1,1 @@
+**Non-free** são pacotes com o código fonte fechado.

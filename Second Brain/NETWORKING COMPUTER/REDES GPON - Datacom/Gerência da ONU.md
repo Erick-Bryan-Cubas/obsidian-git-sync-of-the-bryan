@@ -1,0 +1,2 @@
+Para o teste de conectividade da porta WAn sendo uma ONU bridge sem interface web, a ONU responde ao ping. 
+Sendo uma ONU router, a interface web da ONU pode ser aberta atraves do serviço de gerência. [[acesso remoto]] independente da [[autenticação via PPPoE]] ou link dedicado. 

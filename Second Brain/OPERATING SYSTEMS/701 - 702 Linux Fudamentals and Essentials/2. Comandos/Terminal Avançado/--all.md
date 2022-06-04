@@ -1,0 +1,1 @@
+não ignora entradas começando com . (ponto)

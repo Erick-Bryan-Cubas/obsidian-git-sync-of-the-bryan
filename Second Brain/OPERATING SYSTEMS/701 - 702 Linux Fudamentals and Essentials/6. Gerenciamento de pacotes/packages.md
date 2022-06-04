@@ -1,0 +1,1 @@
+Lista todos os pacotes disponíveis do repositório. 

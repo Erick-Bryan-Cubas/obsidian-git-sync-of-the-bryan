@@ -1,0 +1,1 @@
+_Relativo_: sequência direta (links simbólicos com o comando ==ln== é um bom exemplo)

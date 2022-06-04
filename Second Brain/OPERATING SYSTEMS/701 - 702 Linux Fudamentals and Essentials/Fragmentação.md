@@ -1,0 +1,2 @@
+Ocorre quando um arquivo ou parte dele não ocupa totalmente o espaço reservado. Uma outra parte é gravada em outro espaço livre, o que é um desperdício. A longo prazo, os arquivos são divididos em vários pedaços - o tempo de acesso aumenta. 
+Recomenda-se usar periodicamente um desfragmentador para reorganizar o disco. No Linux, os sistemas de arquivos fragmentam o espaço livre, e não o arquivo. Logo, a fragmentação é muito baixa (no máximo 10%)

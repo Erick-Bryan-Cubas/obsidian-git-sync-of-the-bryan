@@ -1,0 +1,1 @@
+Comando no _dnf_ que remove os pacotes obsoletos da máquina e atualiza. 

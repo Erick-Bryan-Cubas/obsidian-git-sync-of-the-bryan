@@ -1,0 +1,181 @@
+
+#profile-name {
+  font-size: x-large;
+  font-weight: bold;
+  padding-bottom: 3%;
+}
+.stats {
+  padding-bottom: 6px;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 0px 0;
+  width: 80%;
+  border-bottom: 1px solid #cecece;
+  font-family: Roboto, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.habit-text {
+  text-align: center !important;
+  padding: 0px;
+  width: 50%;
+  margin-right: 20px;
+}
+
+.habit-plus {
+  /* background-color: #fff; */
+  border: none;
+  color: white;
+  padding: 7px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.habit-minus {
+  /* background-color: #fff; */
+  /* border-radius: 50%; */
+  border: none;
+  color: white;
+  padding: 7px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.habit-item {
+  display: flex;
+  /* justify-content: center; */
+  align-content: space-between;
+  align-items: center;
+  padding: 0px 0px 0;
+  width: 100%;
+  border-bottom: 1px solid #cecece;
+  font-family: Roboto, sans-serif;
+  font-weight: 50%;
+  font-size: 16px;
+  
+}
+
+input[type=checkbox] {
+  margin-right: 10px;
+}
+
+input[type=checkbox]:focus {
+  outline: 0;
+}
+
+.plugin-root {
+  min-width: 260px;
+}
+
+.substats {
+  font-size: medium;
+}
+
+/* react-tabs internal file :wink: */
+.material-icons {
+  font-size: 12px !important;
+  padding-top: 1px;
+  padding-right: 2px;
+  
+}
+
+.material-icons.md-18 { font-size: 18px !important; }
+.material-icons.md-24 { font-size: 24px !important; }
+.material-icons.md-32 { font-size: 32px !important; }
+.material-icons.md-48 { font-size: 48px !important; }
+
+
+.react-tabs {
+  -webkit-tap-highlight-color: transparent;
+  
+}
+
+.react-tabs__tab-list {
+  border-bottom: 1px solid #aaa;
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+.react-tabs__tab {
+  display: inline-block;
+  border: 1px solid transparent;
+  border-bottom: none;
+  bottom: -1px;
+  position: relative;
+  list-style: none;
+  padding: 1% 2%;
+  cursor: pointer;
+  font-size: medium;
+}
+
+.react-tabs__tab--selected {
+  background: var(--interactive-accent);
+  color: white;
+  border-radius: 5px 5px 0 0;
+}
+
+.react-tabs__tab--disabled {
+  color: GrayText;
+  cursor: default;
+}
+
+.react-tabs__tab:focus {
+  box-shadow: 0 0 5px hsl(208, 99%, 50%);
+  border-color: hsl(208, 99%, 50%);
+  outline: none;
+}
+
+.react-tabs__tab:focus:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  left: -4px;
+  right: -4px;
+  bottom: -5px;
+  background: #fff;
+}
+
+.react-tabs__tab-panel {
+  display: none;
+}
+
+.react-tabs__tab-panel--selected {
+  display: block;
+}
+ul li:not(.task-list-item)::before {
+  content: "•";
+  color: transparent;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+  padding: 0;
+  font-weight: bold;
+  text-shadow: 0 0 0.5em transparent;
+}
+body > div.app-container.is-left-sidedock-collapsed.is-right-sidedock-collapsed > div.horizontal-main-container > div > div.workspace-split.mod-horizontal.mod-right-split > div.workspace-tabs > div.workspace-leaf > div > div.view-content > div > div.cron > button {
+  margin: auto;
+  margin-bottom: 5px;
+}
+.cron {
+  display: inline-grid;
+  justify-content: center;
+  text-align: center;;
+  margin-top: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 10px;
+  background-color: var(--background-secondary-alt);
+  border-radius: 10px;
+}
+#cronMessage {
+  margin: 20px;
+  margin-bottom: 10px;
+  color: var(--text-normal)
+}

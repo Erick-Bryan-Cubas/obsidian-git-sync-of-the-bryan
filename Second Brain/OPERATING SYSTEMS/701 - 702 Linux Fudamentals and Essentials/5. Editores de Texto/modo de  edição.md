@@ -1,0 +1,1 @@
+Acionado pela tecla **i**, nessa opção o usuário pode manipular os textos atrvés de edições. Para retornar ao modo de comando, aperte ESC.

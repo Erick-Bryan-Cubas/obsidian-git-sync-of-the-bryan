@@ -1,0 +1,1 @@
+Metadados são as características dos arquivos. 

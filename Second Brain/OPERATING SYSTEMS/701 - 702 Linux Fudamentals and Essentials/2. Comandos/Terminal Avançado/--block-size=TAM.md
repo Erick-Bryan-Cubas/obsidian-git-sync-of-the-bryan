@@ -1,0 +1,1 @@
+ com -l, escala os tamanhos por TAM ao exibi-los; ex., '--block-size=M'; 

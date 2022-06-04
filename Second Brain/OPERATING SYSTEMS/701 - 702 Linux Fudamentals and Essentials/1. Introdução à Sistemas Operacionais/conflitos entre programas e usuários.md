@@ -1,0 +1,1 @@
+Tais conflitos são administrados pela gestão de [[Processos]] e [[memória]]. 

@@ -1,0 +1,1 @@
+As bibliotecas permanecem alocadas no diretório [[lib]].

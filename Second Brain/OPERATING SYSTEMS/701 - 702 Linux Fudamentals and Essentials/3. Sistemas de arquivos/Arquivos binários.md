@@ -1,0 +1,1 @@
+Registros binários são os não textuais. 

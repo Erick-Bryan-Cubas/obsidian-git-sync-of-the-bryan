@@ -1,0 +1,12 @@
+Parâmetros opcionais: 
+- _d_:exibe ajuda ao invés de apitar;
+- _f_: lógica de contagem ao invês de linhas de tela 
+- _l_: suprime pausa após quebra de página; 
+- _c_: não usa scroll, exibe texto e limpa fins de linhas;
+- _p_: não usa scroll, limpa tela e exibe texto
+- _s_: compacta linhas vazias múltiplas em uma 
+- _u_: suprime sublinhado 
+- -<número>: especifica o número de linhas por tela;
+- +<número>: exibe o arquivo começando da linha número NUM;
+- +/< texto >: exibe arquivo começando do texto de pesquisa correspondente;
+- -v: exibe informações da versão e sai

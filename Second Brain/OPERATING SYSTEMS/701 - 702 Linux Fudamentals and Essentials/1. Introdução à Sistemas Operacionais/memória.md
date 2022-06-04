@@ -1,0 +1,1 @@
+Os sistemas operacioanais gerenciam os recursos de memória por meio da [[multiplexação]] do espaço. Que consiste em alocar o espaço de disco e controlar quais usuários devem utilizar determinados blocos do disco. 

@@ -1,0 +1,1 @@
+Por padrão, o comando _sort_ estrutura em texto. Para ordernar em números: ==sort -n==

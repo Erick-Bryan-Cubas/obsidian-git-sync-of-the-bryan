@@ -1,0 +1,1 @@
+As seções de pacotes são divididas em [[Main]], [[Contribe]] e [[Non-free]].

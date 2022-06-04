@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "7ae26c4212933590",
+    "type": "split",
+    "children": [
+      {
+        "id": "da442920c2a069e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RWT- READ, WRITE AND THINK/Daidoji Yuzan - Bushido (Budo Shoshinshu).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "492f3215099c497c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1fabeaaab32f450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9732e2cdd6f079",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aba26522aacc824",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fhc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5472dd575b180f7c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272
+  },
+  "right": {
+    "id": "d62306a826da1169",
+    "type": "split",
+    "children": [
+      {
+        "id": "238c03b92ad12d38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914d797a1b9641d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RWT- READ, WRITE AND THINK/Daidoji Yuzan - Bushido (Budo Shoshinshu).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "884fff07d7bbf448",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6360de4fbf6599f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RWT- READ, WRITE AND THINK/Daidoji Yuzan - Bushido (Budo Shoshinshu).md"
+              }
+            }
+          },
+          {
+            "id": "5ce02f5a6d1a29e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4f24daaba85a48e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RWT- READ, WRITE AND THINK/Daidoji Yuzan - Bushido (Budo Shoshinshu).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bc6c26b39fad536",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "edf2a1d4a6bc6428",
+            "type": "leaf",
+            "state": {
+              "type": "example-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 403.5,
+    "collapsed": true
+  },
+  "active": "da442920c2a069e1",
+  "lastOpenFiles": [
+    "RWT- READ, WRITE AND THINK/Daidoji Yuzan - Bushido (Budo Shoshinshu).md",
+    "DIREITO ADMINISTRATIVO/Introdução ao Direito Administrativo.md",
+    "704 - Linux Network Engineer/Introdução ao Linux Network Engineer.md",
+    "Excalidraw/teste.md",
+    "Excalidraw/Sem título.md",
+    "root.md",
+    "Excalidraw/Drawing 2022-06-03 00.45.01.excalidraw.md",
+    "Excalidraw/Drawing 2022-06-03 00.45.21.excalidraw.md",
+    "Excalidraw/Drawing 2022-06-03 00.47.44.excalidraw.md",
+    "OPERATING SYSTEMS/701 - 702 Linux Fudamentals and Essentials/3. Sistemas de arquivos/diretório base.md"
+  ]
+}

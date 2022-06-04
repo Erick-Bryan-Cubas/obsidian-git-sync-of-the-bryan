@@ -1,0 +1,1 @@
+Comando no _dnf_ que mostra a qual pacote um arquivo pertence. 

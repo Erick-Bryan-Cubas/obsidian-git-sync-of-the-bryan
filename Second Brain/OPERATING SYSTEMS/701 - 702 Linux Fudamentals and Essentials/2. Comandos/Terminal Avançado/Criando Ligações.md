@@ -1,0 +1,1 @@
+As [[ligações no Unix]] seguem uma dualidade.

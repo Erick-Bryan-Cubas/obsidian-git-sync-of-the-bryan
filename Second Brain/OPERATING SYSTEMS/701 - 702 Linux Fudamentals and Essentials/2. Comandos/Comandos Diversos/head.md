@@ -1,0 +1,1 @@
+- -n2: o comando _head_ irá listar somente as duas primeiras linhas do arquivo; 

@@ -1,0 +1,1 @@
+"Um centro de processamento de dados, também conhecido como data center, é um local onde estão concentrados os sistemas computacionais de uma empresa ou organização, como um sistema de telecomunicações ou um sistema de armazenamento de dados"

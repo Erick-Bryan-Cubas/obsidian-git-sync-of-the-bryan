@@ -1,0 +1,1 @@
+Exibe todas as atualizações de pacote disponíveis para pacotes instalados do repositório. 

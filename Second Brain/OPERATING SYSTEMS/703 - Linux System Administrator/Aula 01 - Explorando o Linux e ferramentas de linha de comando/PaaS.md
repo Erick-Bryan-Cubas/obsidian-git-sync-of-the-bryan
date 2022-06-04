@@ -1,0 +1,1 @@
+Plataforma como serviço - com o PaaS, além de oferecer toda a conveniência do IaaS, o o usuário experimenta de ferramentas necessárias para o desenvolvimento de aplicações . Sem a necessidade de gerencia-las ou instalar. 

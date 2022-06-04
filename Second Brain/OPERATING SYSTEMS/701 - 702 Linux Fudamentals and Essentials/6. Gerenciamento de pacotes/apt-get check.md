@@ -1,0 +1,3 @@
+```bash
+apt-get check 
+```

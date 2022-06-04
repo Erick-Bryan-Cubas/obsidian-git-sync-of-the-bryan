@@ -1,0 +1,1 @@
+Softaware como serviço - o usuário contratante adquiri uma licença temporária de uso, sem quaisquer tipo de resposabilidade perante a infraestrura que sustenta o serviço propriamente dito. 

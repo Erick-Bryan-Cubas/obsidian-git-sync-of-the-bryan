@@ -1,0 +1,1 @@
+Atualiza todos ou somente os pacotes específicados. 

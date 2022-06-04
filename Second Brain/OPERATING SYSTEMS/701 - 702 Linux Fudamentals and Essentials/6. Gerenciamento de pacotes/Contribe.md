@@ -1,0 +1,1 @@
+**Contribe** são as seções que possuem pacotes livres, porém dependem de algum software proprietário. 

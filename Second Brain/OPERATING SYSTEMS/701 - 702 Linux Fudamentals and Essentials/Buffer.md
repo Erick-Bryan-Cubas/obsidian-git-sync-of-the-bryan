@@ -1,0 +1,1 @@
+_Bufffer_ é a leitura e escrita de dados de forma temporária, o buffer é a diferença entre as taxas em que os dados serão recebidos e utilizados para procesamento. 

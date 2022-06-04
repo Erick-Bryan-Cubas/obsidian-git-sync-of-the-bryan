@@ -1,0 +1,1 @@
+Simula o processo de instalação com suas respectivos dependências. 

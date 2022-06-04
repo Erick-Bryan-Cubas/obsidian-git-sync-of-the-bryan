@@ -1,0 +1,1 @@
+No _link dedicado_ em redes GPON, entrega-se uma Vlan para um cliente. 

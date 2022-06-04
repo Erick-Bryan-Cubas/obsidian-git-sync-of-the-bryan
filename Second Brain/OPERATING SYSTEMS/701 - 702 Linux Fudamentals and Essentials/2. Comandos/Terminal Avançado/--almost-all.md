@@ -1,0 +1,1 @@
+Não lista as entradas implícitas . e .. (ponto e dois pontos)

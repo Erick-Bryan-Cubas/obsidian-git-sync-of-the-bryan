@@ -1,0 +1,1 @@
+- _/ palavra_:  utilizando o barra faz-se buscas da mesma no decorrer do texto; 

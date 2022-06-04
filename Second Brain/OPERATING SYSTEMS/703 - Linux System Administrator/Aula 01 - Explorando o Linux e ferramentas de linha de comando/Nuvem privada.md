@@ -1,0 +1,1 @@
+Estruturado para organizações em [[datacenter]], com acesso restrito para os colaboradores. 

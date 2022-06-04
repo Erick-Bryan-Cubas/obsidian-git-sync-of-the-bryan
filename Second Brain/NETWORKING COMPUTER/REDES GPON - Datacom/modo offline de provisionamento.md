@@ -1,0 +1,1 @@
+A liberação da ONU é feita anterior ao processo de instalação, com o número de série dedicado ao cliente em específico. 

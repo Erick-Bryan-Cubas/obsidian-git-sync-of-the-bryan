@@ -1,0 +1,1 @@
+Comando no _dnf_ que mostra informações sobre os pacotes instalados. 

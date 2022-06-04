@@ -1,0 +1,1 @@
+Mostra a qual pacote um arquivo pertence. Semlehante ao [[provides]].

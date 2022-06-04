@@ -1,0 +1,1 @@
+Protocolo de redes sem fio que requer um equipamento central (acess point)

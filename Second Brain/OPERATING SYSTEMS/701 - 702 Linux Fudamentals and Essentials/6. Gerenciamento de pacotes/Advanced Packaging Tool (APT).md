@@ -1,0 +1,1 @@
+Ou [[apt-get]] é o sistema de empacotamento que utiliza um banco de dados próprio para saber quais pacotes estão instalados, quais não estão e quais estão disponíveis para instalação. 

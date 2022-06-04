@@ -1,0 +1,1 @@
+Programas que não são parte da instalação padrão [[GNU-Linux | GNU/Linux]]. 

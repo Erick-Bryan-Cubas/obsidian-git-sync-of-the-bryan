@@ -1,0 +1,5 @@
+```bash 
+
+nano arquivo.txt
+
+``` 

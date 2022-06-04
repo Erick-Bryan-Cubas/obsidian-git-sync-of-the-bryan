@@ -1,0 +1,1 @@
+No modo de comando há viabilidades de automação e miríades de comandos, possibilita gerenciamento de tarefas e consultas.  

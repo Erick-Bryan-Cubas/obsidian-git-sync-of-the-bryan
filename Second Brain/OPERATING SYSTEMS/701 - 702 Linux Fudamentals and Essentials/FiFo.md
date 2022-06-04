@@ -1,0 +1,1 @@
+_FiFo_ é o tipo de processamento baseado em ordem de chegada, o primeiro processo a iniciar é o primeiro a encerrar. 

@@ -1,0 +1,1 @@
+throughput de rede ou simplesmente taxa de transferência é a quantidade de dados transferidos de um lugar a outro, ou a quantidade de dados processados em um determinado espaço de tempo.

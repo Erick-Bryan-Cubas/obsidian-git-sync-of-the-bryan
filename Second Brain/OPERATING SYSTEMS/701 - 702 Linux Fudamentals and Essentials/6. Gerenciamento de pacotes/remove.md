@@ -1,0 +1,1 @@
+Comando no _dnf_ que remove um pacote do sistema. 

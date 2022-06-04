@@ -1,0 +1,1 @@
+[[arquivos variáveis | Arquivos simultâneos]] que operam na máquina. 

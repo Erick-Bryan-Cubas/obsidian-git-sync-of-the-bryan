@@ -1,0 +1,1 @@
+O _empacotamento_  é o ato de agrupar arquivos e diretórios em um único arquivo. 

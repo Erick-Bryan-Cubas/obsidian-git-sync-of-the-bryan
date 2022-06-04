@@ -1,0 +1,1 @@
+No tipo de 1:1 é voltado para o mercado corporativo. Muito utilizado para [[link dedicado]]

@@ -1,0 +1,1 @@
+Assume a confirmação de que os rescpectivos pacotes serão instalados. Não solicita permissão se o usuário quer ou não efetuar a instalação. 

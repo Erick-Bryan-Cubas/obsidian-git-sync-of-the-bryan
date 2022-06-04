@@ -1,0 +1,1 @@
+Declara informações sobre o pacote.

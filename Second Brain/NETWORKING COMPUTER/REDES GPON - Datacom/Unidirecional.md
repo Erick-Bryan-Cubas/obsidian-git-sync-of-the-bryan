@@ -1,0 +1,1 @@
+Transceivers unidirecional possuem duas fibras. Tx e Rx em fibras diferentes, ou seja, dedicadas. 

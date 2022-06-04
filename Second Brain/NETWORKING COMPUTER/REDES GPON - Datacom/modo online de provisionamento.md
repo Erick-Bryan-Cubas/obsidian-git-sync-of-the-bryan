@@ -1,0 +1,1 @@
+Liberação da ONU feita durante o processo de instalação _FTTH_. Segue o comando [[DmOS]] com os 8 caracteres hexadecimal do número de série da ONU
